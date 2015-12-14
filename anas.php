@@ -8,4 +8,5 @@ echo "Before worked with Quatris technology";
 echo "Added from git server";
 
 echo "From server 5.10"
+echo "commit from shell cmd prompt"
 ?>
